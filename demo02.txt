@@ -1,2 +1,2 @@
 this is a file
-this is a good file
+this is a good or bad file
